@@ -1,0 +1,10 @@
+(librepcb_library bb51d798-1958-4a6d-9815-77e55a6e6e91
+ (name "Diotec")
+ (description "This is an unofficial testing LibrePCB library. Diotec semicondutors with order code of TME.EU.")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-22T22:24:33Z)
+ (deprecated false)
+ (url "https://github.com/EdizonTN/DIOTEC.lplib")
+)
