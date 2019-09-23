@@ -1,0 +1,10 @@
+(librepcb_component_category 1c4d6356-8634-4af3-860a-82717448a704
+ (name "Bipolar, NPN")
+ (description "")
+ (keywords "NPN")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-23T17:51:48Z)
+ (deprecated false)
+ (parent e9663545-80dd-4658-9357-d4ef62e55168)
+)

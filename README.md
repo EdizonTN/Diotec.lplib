@@ -3,9 +3,9 @@
 ## Description
 
 This is an unofficial testing [LibrePCB](https://librepcb.org) library. 
-Diotec semiconductor with order code of TME.EU.
+Diotec semiconductor (PNP/NPN transistors in TO-92) with order code of TME.EU.
 
-Total: 17 devices
+Total: 54 devices
 
 
 ## How to add library to your LibrePCB

@@ -1,0 +1,10 @@
+(librepcb_component_category bf16a38c-ebbf-4ec9-8958-a1d5b11d7906
+ (name "Bipolar, PNP")
+ (description "")
+ (keywords "PNP")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-23T17:55:24Z)
+ (deprecated false)
+ (parent e9663545-80dd-4658-9357-d4ef62e55168)
+)
