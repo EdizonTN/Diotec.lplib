@@ -1,0 +1,10 @@
+(librepcb_component_category 9633aef8-c6aa-4e4a-8272-3548c59db125
+ (name "Diode")
+ (description "")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-25T17:38:22Z)
+ (deprecated false)
+ (parent 4d1c95f4-2e60-4f50-a15b-ba9186a01b1a)
+)
